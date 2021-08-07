@@ -1,1 +1,0 @@
-# Face-detection-and-recognition-using-Haar-cascade-and-Computer-Vision
